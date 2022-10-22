@@ -1,0 +1,30 @@
+<?xml version ="1.0" enconding="UTF-8" standalone="yes"?>
+<!--
+    Dcocumento XML para organizar la informacion de un email
+    @Author: Irvn Asuncion Alarcon
+    Fecha: 22/10/2022
+    Editor: Visual Studio Code
+-->
+
+<!DOCTYPE factura>
+
+<factura cod1="dsda", cod2="23232">
+    <fecha dia="01", mes="12" año="2008"/>
+	<clinica>
+	    <codigo>A00000000</codigo>
+		<direccion>C/sin nombre, s/n 28000 Madrid, Madrid España</direccion>
+	</clinica>
+    <paciente>fddssfasfasfsa</paciente>
+    <observaciones>dsadsadsaadadasdsa</observaciones>
+	<plan_de_prueba>
+        <Pendiente Extraccion_dentaria_simple = "15">
+		    <descripcion_precio>
+	            <subtotal>60.00€</subtotal>
+		        <descuento>0.00€</descuento>
+		        <retencion R="0.00%">0.00€</retencion>
+		        <iva I="0.00%">0.00€</iva>
+		        <total>60.00€</total>
+			</descripcion_precio>	
+        </Pendiente>
+    </plan_de_prueba>		
+</factura>
