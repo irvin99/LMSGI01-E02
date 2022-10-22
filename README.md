@@ -30,6 +30,8 @@ Ejemplo de código XML para el módulo de Lenguajes de Marcas y Sistemas de Gest
 📝 **TO DO**
 
     Realizar un documento XML válido que sea compatible con la factura siguiente:
+
+![Logo de Team](https://github.com/ana-polo/LMSGI01-E02/blob/main/Factura.gif "Factura")
     
     
 
